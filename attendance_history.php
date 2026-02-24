@@ -22,6 +22,7 @@ $i = 1;
 <html>
 <head>
 <meta charset="UTF-8">
+<link rel="icon" type="image/png" href="images/deped region8.png">
 <title>Attendance History</title>
 
 <link rel="stylesheet" href="css/bootstrap.min.css">

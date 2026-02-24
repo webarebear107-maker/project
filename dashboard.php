@@ -3,6 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <title>Dashboard</title>
+<link rel="icon" type="image/png" href="images/deped region8.png">
 <link rel="stylesheet" href="css/bootstrap.min.css">
 
 <style>

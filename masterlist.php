@@ -9,7 +9,7 @@ session_start();
 <title>Master List</title>
 
 <link rel="stylesheet" href="css/bootstrap.min.css">
-<link rel="icon" type="image/png" href="images/ocshs3.png">
+<link rel="icon" type="image/png" href="images/deped region8.png">
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 
 <style>

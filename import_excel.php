@@ -9,7 +9,7 @@ session_start();
     <meta charset="UTF-8">
     <title>Import Students</title>
     <link rel="stylesheet" href="css/main.css">
-    <link rel="icon" type="image/png" href="images/ocshs3.png">
+    <link rel="icon" type="image/png" href="images/deped region8.png">
 </head>
 <body>
 

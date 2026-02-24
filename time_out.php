@@ -9,7 +9,7 @@ session_start();
     <title>Ormoc City Division Attendance System</title>
 
     <link rel="stylesheet" href="css/bootstrap.min.css">
-    <link rel="icon" type="image/png" href="images/ocshs3.png">
+    <link rel="icon" type="image/png" href="images/deped region8.png">
 
     <style>
         body {
